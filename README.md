@@ -1,20 +1,21 @@
 # hm_ml_24-25
 
 Работа алгоритма в терминале PyCharm CE:
-![](../../../../../9.png)
+<img width="716" alt="9" src="https://github.com/user-attachments/assets/a5d96b71-5630-45c5-8a06-307c0e621b94">
 
 1 - Проверяем работу алгоритма прогнозирования стоимости одного автомобиля:
-![](../../../../../1.png)
+<img width="1426" alt="1" src="https://github.com/user-attachments/assets/c80af33b-82db-4cce-8672-265a4b67f770">
+
 Получаем ответом стоимость:
-![](../../../../../2.png)
+<img width="1397" alt="2" src="https://github.com/user-attachments/assets/ee483f22-e865-43b0-b6fb-c820e4e0043d">
 
 2 - Проверяем работу алгоритма прогнозирования стоимости нескольких автомобилей:
-![](../../../../../3.png)
-![](../../../../../4.png)
+<img width="1414" alt="3" src="https://github.com/user-attachments/assets/04bde80e-5aae-4457-9c26-8060b0afc964">
+<img width="1397" alt="4" src="https://github.com/user-attachments/assets/6f326912-4ea8-413a-806e-82d97573df8c">
 
 3 - Теперь проверяем работу записи дополнительного столбца с прогнозами в file.csv:
-![](../../../../../5.png)
-![](../../../../../6.png)
+<img width="1418" alt="5" src="https://github.com/user-attachments/assets/d2c73f31-46a5-4705-b778-004d4860e9d0">
+<img width="1424" alt="6" src="https://github.com/user-attachments/assets/acb13746-36e3-4812-b80b-559b566ec1e2">
 Результатом будет тот же файл csv, который отправляли в fastapi, 
 но с дополнительным с дополнительным столбцом прогнозирования стоимости автомобиля.
 
